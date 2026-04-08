@@ -1,0 +1,33 @@
+# proxy
+
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,epg.pw
+DOMAIN-SUFFIX,omdbapi.com
+DOMAIN-SUFFIX,gitbook.io
+DOMAIN-SUFFIX,v2ray-agent.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,transportation.gov
+DOMAIN-SUFFIX,langchain.com
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,nexusmods.com
+DOMAIN-SUFFIX,nexus-cdn.com
+
+# dns gogole
+IP-CIDR,8.8.8.8/32,no-resolve
+IP-CIDR,8.8.4.4/32,no-resolve
+# cloudflare
+IP-CIDR,1.1.1.1/32,no-resolve
+IP-CIDR,1.0.0.1/32,no-resolve
+
+# ps portal
+DOMAIN-SUFFIX,np.communication.playstation.net
+DOMAIN-SUFFIX,np.stun.playstation.net
+DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,windsurf.com
+DOMAIN,play.googleapis.com
+DOMAIN,remoteprovisioning.googleapis.com
+DOMAIN,smetrics.aem.playstation.com
+
+# agents
+DOMAIN-SUFFIX,manus.im
+DOMAIN-SUFFIX,genspark.ai
