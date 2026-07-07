@@ -1,0 +1,7 @@
+# Google Voice
+DOMAIN-SUFFIX,voice.google.com
+DOMAIN-SUFFIX,telephony.goog
+DOMAIN,lens.l.google.com
+DOMAIN,lens.voice.google.com
+DOMAIN,voice-pa.googleapis.com
+DOMAIN-WILDCARD,stun*.l.google.com
