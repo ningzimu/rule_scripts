@@ -45,15 +45,16 @@ SRC-PORT,52000
 SRC-PORT,34567
 
 # others
+DOMAIN-KEYWORD,cdn
 DOMAIN-KEYWORD,dupay
+DOMAIN-SUFFIX,embyking.com
 DOMAIN-SUFFIX,mlamp.cn
 DOMAIN-SUFFIX,mininglamp.com
 DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,syemby.com
 DOMAIN-SUFFIX,xming.ai
 
 # WeChat
-PROCESS-NAME,WeChat.exe
-PROCESS-NAME,WeChatApp.exe
 DOMAIN-SUFFIX,weixin.qq.com
 DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,qq.com
