@@ -1,2 +1,5 @@
 # google-AI-studio
 DOMAIN,ai.google.dev
+
+# ChatGPT Sites
+DOMAIN-SUFFIX,chatgpt.site
